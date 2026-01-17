@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+attrs
+jsonschema
+openpyxl
