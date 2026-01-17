@@ -32,15 +32,15 @@ This project allows users to analyze discovery trends, planet characteristics, h
 ---
 
 ## 📂 Project Structure
-NASA-Exoplanet-Discovery-Explorer/
-│
-├── app.py # Main Streamlit dashboard
-├── database_setup.py # Creates and initializes SQLite database
-├── data_fetcher.py # Fetches data from NASA Exoplanet Archive
-├── data_extraction.py # Cleans and processes raw data
-├── exoplanets.db # SQLite database
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+- NASA-Exoplanet-Discovery-Explorer/
+- │
+- ├── app.py # Main Streamlit dashboard
+- ├── database_setup.py # Creates and initializes SQLite database
+- ├── data_fetcher.py # Fetches data from NASA Exoplanet Archive
+- ├── data_extraction.py # Cleans and processes raw data
+- ├── exoplanets.db # SQLite database
+- ├── requirements.txt # Project dependencies
+- └── README.md # Project documentation
 
 ---
 
