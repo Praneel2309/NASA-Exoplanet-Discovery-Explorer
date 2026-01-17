@@ -47,9 +47,9 @@ NASA-Exoplanet-Discovery-Explorer/
 ## ▶️ How to Run the Project Locally
 
 ### 1️⃣ Clone the repository
- ```bash
-git clone https://github.com/Praneel2309/nasa-exoplanet-discovery-explorer.git
-cd nasa-exoplanet-discovery-explorer
+- ```bash
+- git clone https://github.com/Praneel2309/nasa-exoplanet-discovery-explorer.git
+- cd nasa-exoplanet-discovery-explorer
 ### 2️⃣ Install dependencies
 pip install -r requirements.txt
 
